@@ -1,5 +1,8 @@
 // Branch of number gussing game.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Name: Yochanan Allen 
+// Create a second branch in your Exercise 20 project and Enhance the program that you wrote for Programming Challenge 20
+//so it keeps a count of the number of guesses the user makes. When the user correctly guesses the random number,
+//the program should display the number of guesses.
 
 #include <iostream>
 #include <random>
